@@ -5,7 +5,6 @@
 
 ## About Me
 
-- Computer Science student
 - Currently learning Data Analysis & Machine Learning
 - Building projects step by step
 - Passionate about solving problems with data
